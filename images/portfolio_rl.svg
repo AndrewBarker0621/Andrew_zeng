@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 137" width="314" height="137">
+<rect width="314" height="137" fill="#ffffff"/>
+<rect x="0" y="0" width="314" height="137" fill="#fbfbfd"/>
+<line x1="120" y1="20" x2="306" y2="20" stroke="#e4e7ec" stroke-width="1"/>
+<line x1="120" y1="44" x2="306" y2="44" stroke="#e4e7ec" stroke-width="1"/>
+<line x1="120" y1="68" x2="306" y2="68" stroke="#e4e7ec" stroke-width="1"/>
+<line x1="120" y1="92" x2="306" y2="92" stroke="#e4e7ec" stroke-width="1"/>
+<line x1="120" y1="116" x2="306" y2="116" stroke="#e4e7ec" stroke-width="1"/>
+<polyline points="120,119.3 128,114.6 136,115.6 144,109.0 152,101.8 160,112.5 168,125.0 176,110.9 184,115.4 192,120.8 200,101.6 208,99.3 216,85.3 224,82.8 232,75.1 240,83.2 248,75.6 256,60.6 264,56.6 272,45.6 280,36.9 288,47.7 296,36.2 304,30.0" fill="none" stroke="#1772d0" stroke-width="2"/>
+<polyline points="120,112.2 128,125.0 136,116.7 144,118.4 152,113.8 160,105.2 168,100.8 176,91.1 184,94.7 192,88.1 200,90.5 208,80.5 216,71.8 224,83.0 232,93.2 240,101.3 248,90.5 256,93.1 264,90.9 272,96.9 280,97.6 288,101.5 296,106.2 304,105.1" fill="none" stroke="#b0b7c3" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="30" cy="32" r="13" fill="#1772d0" opacity="0.9"/>
+<text x="48" y="30" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">TD3</text>
+<text x="48" y="40" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">agent</text>
+<circle cx="30" cy="70" r="13" fill="#f09228" opacity="0.9"/>
+<text x="48" y="68" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">Solver</text>
+<text x="48" y="78" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">agent</text>
+<circle cx="30" cy="108" r="13" fill="#2fa36b" opacity="0.9"/>
+<text x="48" y="106" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">Market</text>
+<text x="48" y="116" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#333">observer</text>
+<path d="M30 45 L30 57 M30 83 L30 95" stroke="#888" stroke-width="1.2"/>
+<path d="M43 32 C 90 32, 90 70, 110 70" stroke="#888" stroke-width="1" fill="none" stroke-dasharray="3 2"/>
+<text x="200" y="18" font-family="Lato,Helvetica,Arial,sans-serif" font-size="9" fill="#1772d0">multi-agent RL portfolio</text>
+</svg>

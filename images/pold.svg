@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 137" width="314" height="137">
+<rect x="0" y="0" width="314" height="137" fill="#eef1f5"/>
+<defs><clipPath id="lot"><rect x="20" y="22" width="274" height="98"/></clipPath></defs>
+<rect x="20" y="30" width="274" height="90" fill="#d3d8e0"/>
+<rect x="24" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="30" y="40" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="58" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="64" y="40" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="92" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="98" y="40" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="126" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="132" y="40" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="160" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="166" y="40" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="194" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="200" y="40" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="228" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="234" y="40" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="262" y="34" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="268" y="40" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="24" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="30" y="82" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="58" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="64" y="82" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="92" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="98" y="82" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="126" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="132" y="82" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="160" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="166" y="82" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<rect x="194" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="200" y="82" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="228" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="234" y="82" width="18" height="26" rx="3" fill="#2fa36b" opacity="0.35"/>
+<rect x="262" y="76" width="30" height="38" fill="#e9edf2" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="268" y="82" width="18" height="26" rx="3" fill="#f09228" opacity="0.9"/>
+<g clip-path="url(#lot)">
+<line x1="157" y1="22" x2="34.8" y2="66.5" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="49.2" y2="94.7" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="70.0" y2="118.6" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="96.0" y2="136.8" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="125.6" y2="148.1" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="157.0" y2="152.0" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="188.4" y2="148.1" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="218.0" y2="136.8" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="244.0" y2="118.6" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="264.8" y2="94.7" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+<line x1="157" y1="22" x2="279.2" y2="66.5" stroke="#1772d0" stroke-width="0.8" opacity="0.35"/>
+</g>
+<rect x="146" y="6" width="22" height="16" rx="3" fill="#1772d0"/><circle cx="157" cy="14" r="4" fill="#ffffff"/>
+<text x="24" y="132" font-family="Lato,Helvetica,Arial,sans-serif" font-size="8" fill="#555">LiDAR → SENSR → AWS → web dashboard</text>
+</svg>
